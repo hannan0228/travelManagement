@@ -4,7 +4,7 @@
 
 
 
-* create DB as "spring_aop"
+* create DB as "db01"
 
 * import project as Maven Project
 
